@@ -1,5 +1,7 @@
 # qT3: An app for the algorithmic deduction of Arabic verbs. 
 
+A project done with @leahets
+
 We implemented an iOS app where a user can enter an
 Arabic verb in the state in which they found it: with no
 short vowels, and with any prefixes and suffixes attached. In turn, they will recieve a page of information, including the root, form, and linguistic features such as tense, mood, person, and number. 
