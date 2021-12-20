@@ -1,6 +1,7 @@
 # qT3: An app for the algorithmic deduction of Arabic verbs. 
 
-A project done with @leahets
+A project done with @leahets (https://github.com/leahets)
+Can also be viewed here: https://github.com/leahets/qT3
 
 We implemented an iOS app where a user can enter an
 Arabic verb in the state in which they found it: with no
